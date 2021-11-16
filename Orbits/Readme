@@ -1,1 +1,4 @@
 This are the scripts used for the orbit simulations. To be used with TUdat (Tu Delft astrodynamic toolbox)
+the perturbed_lunar_sat.cpp file contains the eventually used C++ script used to simulate the frozen orbit at a 2338km. 
+The map of moontests contains the full working directory that can be used in a Tudat install including the executables to run the simulations (names might be different)
+The name within the exetutables for the frozen orbit simulation is moon_perturbed_test2
