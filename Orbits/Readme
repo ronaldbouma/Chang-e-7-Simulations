@@ -4,3 +4,5 @@ The map of moontests contains the full working directory (including cmake and st
 
 includes the executables to run the simulations (names might be different)The name within the exetutables for the frozen orbit simulation is moon_perturbed_test2
 as well as folders to store the output .dat files
+
+The orbitplot is a small python script to visualize the output .dat files
