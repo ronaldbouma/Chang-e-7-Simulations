@@ -120,6 +120,8 @@ int main( )
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
     // Set Keplerian elements for the orbiter. the 2338 kilometer with 0.038 eccentricity is an example of a (long term) stable orbit
+    // i used a high inclination frozen orbit since the lunar module will be injected with a close to polar orbit inclination. therefore a high inclination
+    // orbit is significantly more likely to be achievable with constrains on delta v budget.
     Eigen::Vector6d asterixInitialStateInKeplerianElements;
     asterixInitialStateInKeplerianElements( semiMajorAxisIndex ) = 2338.0E3;
     asterixInitialStateInKeplerianElements( eccentricityIndex ) = 0.038;
