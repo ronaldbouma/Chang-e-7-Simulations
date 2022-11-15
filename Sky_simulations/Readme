@@ -1,3 +1,5 @@
 This folder contains the Python scripts used for the full sky simulations
 The Simulation select is for doing only a single simulation with specified paramters
 The simulation_fossil galaxies does it for a number of different frequencies and baselines, edit the code to specify
+
+All files depend on the functions2.py file found in the scripts section, this file contains all the called functions
