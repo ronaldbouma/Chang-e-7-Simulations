@@ -1,1 +1,5 @@
 This Folder contains the Python scripts used for miscelaneous tests.
+These are mostly to investigate aspects of completed full sky maps.
+
+the primary file is the functions2.py file. this file contains all the functions that are called by the scripts. A desription of the 
+functions is in the comments present in that file.
