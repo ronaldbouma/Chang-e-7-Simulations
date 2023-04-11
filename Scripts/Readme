@@ -1,0 +1,6 @@
+This are the main scripot files.
+The primary file is the function2.py, this file contais all the functions used in the simulation and analysis scripts 
+An explanation of each function and their inputs are given in the functions2 file.
+Each analysis file has a shortt desciption of what the file is meant to do, however not a step by step guide.
+All these functions assume a contellation of three elements though it easily be modified to expand to a any number.
+Most functions use the shape the shape of the arrays as the determining factor for number of elements and number of measurements (though some do explicitely expect three inputs)
